@@ -1,0 +1,2 @@
+Here Apartment and House are leaf components representing individual Housing components.
+Building is the composite component that can contain other housing units or even other buildings.
